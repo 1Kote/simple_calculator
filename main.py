@@ -1,7 +1,4 @@
 #Caculadora 
-
-#############
-from unittest import result
 while True:
     number1 = input("Digite um numero: ")
     number2 = input("Digite outro numero: ")
